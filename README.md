@@ -1,4 +1,4 @@
-
+![Demo](https://affairscloud.com/assets/uploads/2016/01/Largest-Prime-Number-discovered.jpg)
 
 In this article, we'll get to know the preliminary steps you can take as a Software Engineer for building a scalable system.
 
