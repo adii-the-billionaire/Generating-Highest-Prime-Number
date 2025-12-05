@@ -1,3 +1,5 @@
+
+
 In this article, we'll get to know the preliminary steps you can take as a Software Engineer for building a scalable system.
 
 Let's see how we can decrease loadtest time from 187s to 31s
@@ -240,7 +242,8 @@ A high-performance, RESTful API built with **Node.js 24** and **Express.js v5**,
 - **24 Concurrent Threads**  
   Each incoming request is processed by an available worker, improving responsiveness.
 
-- **Throughput Improvement**  
+- **Throughput Improvement**  ![Largest-Prime-Number-discovered](https://github.com/user-attachments/assets/1b755acc-bc5a-4b11-919b-a036cc5cfb3f)
+
   This model leads to a 30% increase in API throughput under load.
 
 </details>
